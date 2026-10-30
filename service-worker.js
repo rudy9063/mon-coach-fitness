@@ -1,5 +1,7 @@
-const CACHE_NAME = 'mcf-v12';
-const APP_PREFIX = 'mcf-';
+
+const CACHE_NAME = 'mcf-new-v1';
+const APP_PREFIX = 'mcf-new-';
+
 const CORE_FILES = [
   './',
   './index.html',
